@@ -1,0 +1,39 @@
+2021-12-19 06:53:44,549 :INFO :WDM :
+
+2021-12-19 06:53:44,549 :INFO :WDM :
+
+2021-12-19 06:53:44,549 :INFO :WDM :
+
+2021-12-19 06:53:44,550 :INFO :WDM :====== WebDriver manager ======
+2021-12-19 06:53:44,550 :INFO :WDM :====== WebDriver manager ======
+2021-12-19 06:53:44,550 :INFO :WDM :====== WebDriver manager ======
+2021-12-19 06:53:44,564 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-19 06:53:44,564 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-19 06:53:44,564 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-19 06:53:44,564 :INFO :WDM :Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-19 06:53:44,564 :INFO :WDM :Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-19 06:53:44,564 :INFO :WDM :Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-19 06:53:44,814 :INFO :WDM :Driver [C:\Users\Appy\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-19 06:53:44,814 :INFO :WDM :Driver [C:\Users\Appy\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-19 06:53:44,814 :INFO :WDM :Driver [C:\Users\Appy\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-19 06:53:45,975 :INFO :root :Test beings
+2021-12-19 06:53:45,975 :INFO :root :Test beings
+2021-12-19 06:53:45,975 :INFO :root :Test beings
+2021-12-19 06:53:54,482 :INFO :root :Asserting Login
+2021-12-19 06:53:54,482 :INFO :root :Asserting Login
+2021-12-19 06:53:54,482 :INFO :root :Asserting Login
+2021-12-19 06:53:54,486 :INFO :root :Passed
+2021-12-19 06:53:54,486 :INFO :root :Passed
+2021-12-19 06:53:54,486 :INFO :root :Passed
+2021-12-19 06:53:56,747 :INFO :root :Asserting Login
+2021-12-19 06:53:56,747 :INFO :root :Asserting Login
+2021-12-19 06:53:56,747 :INFO :root :Asserting Login
+2021-12-19 06:53:56,751 :INFO :root :Passed
+2021-12-19 06:53:56,751 :INFO :root :Passed
+2021-12-19 06:53:56,751 :INFO :root :Passed
+2021-12-19 06:54:00,859 :INFO :root :Asserting Login
+2021-12-19 06:54:00,859 :INFO :root :Asserting Login
+2021-12-19 06:54:00,859 :INFO :root :Asserting Login
+2021-12-19 06:54:00,864 :INFO :root :Passed
+2021-12-19 06:54:00,864 :INFO :root :Passed
+2021-12-19 06:54:00,864 :INFO :root :Passed

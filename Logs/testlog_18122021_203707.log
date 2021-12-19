@@ -1,0 +1,38 @@
+2021-12-18 20:37:07,136 :INFO :WDM :
+
+2021-12-18 20:37:07,136 :INFO :WDM :====== WebDriver manager ======
+2021-12-18 20:37:07,151 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-18 20:37:07,151 :INFO :WDM :Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-18 20:37:07,358 :INFO :WDM :There is no [win32] chromedriver for browser  in cache
+2021-12-18 20:37:07,359 :INFO :WDM :Trying to download new driver from https://chromedriver.storage.googleapis.com/96.0.4664.45/chromedriver_win32.zip
+2021-12-18 20:37:08,495 :INFO :WDM :Driver has been saved in cache [C:\Users\Appy\.wdm\drivers\chromedriver\win32\96.0.4664.45]
+2021-12-18 20:37:17,597 :INFO :root :test_login_to_admin: Test Begins
+2021-12-18 20:37:28,161 :INFO :root :test_login_to_admin: End of Test
+2021-12-18 20:37:28,196 :INFO :root :test_bookings_page: Test begins
+2021-12-18 20:37:29,336 :INFO :root :test_bookings_page: End of Test
+2021-12-18 20:37:29,339 :INFO :root :test_add_bookinge: Test begins
+2021-12-18 20:37:29,339 :INFO :root :test_add_bookinge: clicking on Add Booking button
+2021-12-18 20:37:31,523 :INFO :root :test_add_bookinge: clicked on Add Booking button
+2021-12-18 20:37:31,550 :INFO :root :test_add_bookinge: End of Test
+2021-12-18 20:37:31,552 :INFO :root :test_quick_booking: Test Begins
+2021-12-18 20:37:31,686 :INFO :root :channabasanagouda - channabasanagouda143@gmail.com
+2021-12-18 20:37:35,939 :INFO :root :Total room price: 360
+2021-12-18 20:37:35,944 :INFO :root :Price of roo per night: 180
+2021-12-18 20:37:35,948 :INFO :root :Type of romm price: By Fixed
+2021-12-18 20:37:35,951 :INFO :root :+ VAT: 0
+2021-12-18 20:37:35,954 :INFO :root :+ b2c Markup: 0
+2021-12-18 20:37:36,079 :INFO :root :Price to pay: 0
+2021-12-18 20:37:36,133 :INFO :root :Booking now
+2021-12-18 20:37:37,380 :INFO :root :Booking complete
+2021-12-18 20:37:37,380 :INFO :root :test_quick_booking: End of Test
+2021-12-18 20:37:39,670 :INFO :WDM :
+
+2021-12-18 20:37:39,671 :INFO :WDM :====== WebDriver manager ======
+2021-12-18 20:37:39,762 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-18 20:37:39,762 :INFO :WDM :Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-18 20:37:39,983 :INFO :WDM :Driver [C:\Users\Appy\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-18 20:37:41,787 :INFO :root :test_login: Test begins
+2021-12-18 20:37:43,506 :INFO :root :Entering user email
+2021-12-18 20:38:11,453 :WARNING :urllib3.connectionpool :Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EB1F7F0310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/452e020dac429e514e6d441b961aa41c/window
+2021-12-18 20:38:15,492 :WARNING :urllib3.connectionpool :Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EB1F7F01C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/452e020dac429e514e6d441b961aa41c/window
+2021-12-18 20:38:19,499 :WARNING :urllib3.connectionpool :Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EB1F7F0070>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/452e020dac429e514e6d441b961aa41c/window

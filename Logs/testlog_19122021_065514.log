@@ -1,0 +1,27 @@
+2021-12-19 06:55:14,876 :INFO :WDM :
+
+2021-12-19 06:55:14,876 :INFO :WDM :
+
+2021-12-19 06:55:14,876 :INFO :WDM :
+
+2021-12-19 06:55:14,876 :INFO :WDM :====== WebDriver manager ======
+2021-12-19 06:55:14,876 :INFO :WDM :====== WebDriver manager ======
+2021-12-19 06:55:14,876 :INFO :WDM :====== WebDriver manager ======
+2021-12-19 06:55:14,889 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-19 06:55:14,889 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-19 06:55:14,889 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-19 06:55:14,889 :INFO :WDM :Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-19 06:55:14,889 :INFO :WDM :Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-19 06:55:14,889 :INFO :WDM :Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-19 06:55:15,132 :INFO :WDM :Driver [C:\Users\Appy\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-19 06:55:15,132 :INFO :WDM :Driver [C:\Users\Appy\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-19 06:55:15,132 :INFO :WDM :Driver [C:\Users\Appy\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-19 06:55:16,228 :INFO :root :Test beings
+2021-12-19 06:55:16,228 :INFO :root :Test beings
+2021-12-19 06:55:16,228 :INFO :root :Test beings
+2021-12-19 06:55:25,120 :INFO :root :Asserting Login
+2021-12-19 06:55:25,120 :INFO :root :Asserting Login
+2021-12-19 06:55:25,120 :INFO :root :Asserting Login
+2021-12-19 06:55:25,123 :INFO :root :Failed
+2021-12-19 06:55:25,123 :INFO :root :Failed
+2021-12-19 06:55:25,123 :INFO :root :Failed

@@ -1,0 +1,50 @@
+2021-12-17 15:26:40,479 :INFO :WDM :====== WebDriver manager ======
+2021-12-17 15:26:40,479 :INFO :WDM :====== WebDriver manager ======
+2021-12-17 15:26:40,665 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-17 15:26:40,665 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-17 15:26:40,667 :INFO :WDM :Get LATEST driver version for 96.0.4664
+2021-12-17 15:26:40,667 :INFO :WDM :Get LATEST driver version for 96.0.4664
+2021-12-17 15:26:41,001 :INFO :WDM :There is no [win32] chromedriver for browser 96.0.4664 in cache
+2021-12-17 15:26:41,001 :INFO :WDM :There is no [win32] chromedriver for browser 96.0.4664 in cache
+2021-12-17 15:26:41,003 :INFO :WDM :Get LATEST driver version for 96.0.4664
+2021-12-17 15:26:41,003 :INFO :WDM :Get LATEST driver version for 96.0.4664
+2021-12-17 15:26:41,165 :INFO :WDM :Trying to download new driver from https://chromedriver.storage.googleapis.com/96.0.4664.45/chromedriver_win32.zip
+2021-12-17 15:26:41,165 :INFO :WDM :Trying to download new driver from https://chromedriver.storage.googleapis.com/96.0.4664.45/chromedriver_win32.zip
+2021-12-17 15:26:42,699 :INFO :WDM :Driver has been saved in cache [C:\Users\AnandGautam\.wdm\drivers\chromedriver\win32\96.0.4664.45]
+2021-12-17 15:26:42,699 :INFO :WDM :Driver has been saved in cache [C:\Users\AnandGautam\.wdm\drivers\chromedriver\win32\96.0.4664.45]
+2021-12-17 15:26:46,720 :INFO :root :test_login_to_admin: Test Begins
+2021-12-17 15:26:46,720 :INFO :root :test_login_to_admin: Test Begins
+2021-12-17 15:26:52,391 :INFO :root :test_bookings_page: Test begins
+2021-12-17 15:26:52,391 :INFO :root :test_bookings_page: Test begins
+2021-12-17 15:26:52,495 :INFO :root :test_add_bookinge: Test begins
+2021-12-17 15:26:52,495 :INFO :root :test_add_bookinge: Test begins
+2021-12-17 15:26:52,496 :INFO :root :test_add_bookinge: clicking on Add Booking button
+2021-12-17 15:26:52,496 :INFO :root :test_add_bookinge: clicking on Add Booking button
+2021-12-17 15:26:52,577 :INFO :root :test_quick_booking: Test Begins
+2021-12-17 15:26:52,577 :INFO :root :test_quick_booking: Test Begins
+2021-12-17 15:26:57,141 :INFO :WDM :====== WebDriver manager ======
+2021-12-17 15:26:57,141 :INFO :WDM :====== WebDriver manager ======
+2021-12-17 15:26:57,929 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-17 15:26:57,929 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-17 15:26:57,929 :INFO :WDM :Get LATEST driver version for 96.0.4664
+2021-12-17 15:26:57,929 :INFO :WDM :Get LATEST driver version for 96.0.4664
+2021-12-17 15:26:58,189 :INFO :WDM :Driver [C:\Users\AnandGautam\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-17 15:26:58,189 :INFO :WDM :Driver [C:\Users\AnandGautam\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-17 15:27:02,444 :INFO :root :test_login: Test begins
+2021-12-17 15:27:02,444 :INFO :root :test_login: Test begins
+2021-12-17 15:27:08,067 :INFO :root :Entering user email
+2021-12-17 15:27:08,067 :INFO :root :Entering user email
+2021-12-17 15:27:08,173 :INFO :root :main_page: Test beings
+2021-12-17 15:27:08,173 :INFO :root :main_page: Test beings
+2021-12-17 15:27:08,178 :INFO :root :Checking sidebar menu items
+2021-12-17 15:27:08,178 :INFO :root :Checking sidebar menu items
+2021-12-17 15:27:14,922 :INFO :WDM :====== WebDriver manager ======
+2021-12-17 15:27:14,922 :INFO :WDM :====== WebDriver manager ======
+2021-12-17 15:27:15,775 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-17 15:27:15,775 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-17 15:27:15,775 :INFO :WDM :Get LATEST driver version for 96.0.4664
+2021-12-17 15:27:15,775 :INFO :WDM :Get LATEST driver version for 96.0.4664
+2021-12-17 15:27:15,967 :INFO :WDM :Driver [C:\Users\AnandGautam\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-17 15:27:15,967 :INFO :WDM :Driver [C:\Users\AnandGautam\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-17 15:27:21,630 :INFO :root :Test beings
+2021-12-17 15:27:21,630 :INFO :root :Test beings

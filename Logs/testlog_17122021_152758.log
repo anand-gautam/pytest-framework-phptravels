@@ -1,0 +1,26 @@
+2021-12-17 15:28:03,496 :INFO :WDM :====== WebDriver manager ======
+2021-12-17 15:28:03,496 :INFO :WDM :====== WebDriver manager ======
+2021-12-17 15:28:03,612 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-17 15:28:03,612 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-17 15:28:03,612 :INFO :WDM :Get LATEST driver version for 96.0.4664
+2021-12-17 15:28:03,612 :INFO :WDM :Get LATEST driver version for 96.0.4664
+2021-12-17 15:28:03,814 :INFO :WDM :Driver [C:\Users\AnandGautam\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-17 15:28:03,814 :INFO :WDM :Driver [C:\Users\AnandGautam\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-17 15:28:07,355 :INFO :root :test_login_to_admin: Test Begins
+2021-12-17 15:28:07,355 :INFO :root :test_login_to_admin: Test Begins
+2021-12-17 15:28:12,651 :INFO :root :test_bookings_page: Test begins
+2021-12-17 15:28:12,651 :INFO :root :test_bookings_page: Test begins
+2021-12-17 15:28:12,699 :INFO :root :test_add_bookinge: Test begins
+2021-12-17 15:28:12,699 :INFO :root :test_add_bookinge: Test begins
+2021-12-17 15:28:12,700 :INFO :root :test_add_bookinge: clicking on Add Booking button
+2021-12-17 15:28:12,700 :INFO :root :test_add_bookinge: clicking on Add Booking button
+2021-12-17 15:28:12,752 :INFO :root :test_quick_booking: Test Begins
+2021-12-17 15:28:12,752 :INFO :root :test_quick_booking: Test Begins
+2021-12-17 15:28:15,210 :INFO :WDM :====== WebDriver manager ======
+2021-12-17 15:28:15,210 :INFO :WDM :====== WebDriver manager ======
+2021-12-17 15:28:15,400 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-17 15:28:15,400 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-17 15:28:15,402 :INFO :WDM :Get LATEST driver version for 96.0.4664
+2021-12-17 15:28:15,402 :INFO :WDM :Get LATEST driver version for 96.0.4664
+2021-12-17 15:28:15,567 :INFO :WDM :Driver [C:\Users\AnandGautam\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-17 15:28:15,567 :INFO :WDM :Driver [C:\Users\AnandGautam\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache

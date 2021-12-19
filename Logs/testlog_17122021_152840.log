@@ -1,0 +1,58 @@
+2021-12-17 15:28:40,902 :INFO :WDM :
+
+2021-12-17 15:28:40,903 :INFO :WDM :====== WebDriver manager ======
+2021-12-17 15:28:40,997 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-17 15:28:40,998 :INFO :WDM :Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-17 15:28:41,280 :INFO :WDM :Trying to download new driver from https://chromedriver.storage.googleapis.com/96.0.4664.45/chromedriver_win32.zip
+2021-12-17 15:28:43,266 :INFO :WDM :Driver has been saved in cache [C:\Users\AnandGautam\.wdm\drivers\chromedriver\win32\96.0.4664.45]
+2021-12-17 15:28:46,851 :INFO :root :test_login_to_admin: Test Begins
+2021-12-17 15:29:01,616 :INFO :root :test_login_to_admin: End of Test
+2021-12-17 15:29:01,638 :INFO :root :test_bookings_page: Test begins
+2021-12-17 15:29:04,735 :INFO :root :test_bookings_page: End of Test
+2021-12-17 15:29:04,759 :INFO :root :test_add_bookinge: Test begins
+2021-12-17 15:29:04,761 :INFO :root :test_add_bookinge: clicking on Add Booking button
+2021-12-17 15:29:06,677 :INFO :root :test_add_bookinge: clicked on Add Booking button
+2021-12-17 15:29:06,779 :INFO :root :test_add_bookinge: End of Test
+2021-12-17 15:29:06,791 :INFO :root :test_quick_booking: Test Begins
+2021-12-17 15:29:07,379 :INFO :root :Demo User - user@phptravels.com
+2021-12-17 15:29:12,693 :INFO :root :Total room price: 360
+2021-12-17 15:29:12,705 :INFO :root :Price of roo per night: 180
+2021-12-17 15:29:12,718 :INFO :root :Type of romm price: By Fixed
+2021-12-17 15:29:12,729 :INFO :root :+ VAT: 2
+2021-12-17 15:29:12,744 :INFO :root :+ b2c Markup: 10
+2021-12-17 15:29:13,228 :INFO :root :Price to pay: 360
+2021-12-17 15:29:13,450 :INFO :root :Booking now
+2021-12-17 15:29:15,299 :INFO :root :Booking complete
+2021-12-17 15:29:15,302 :INFO :root :test_quick_booking: End of Test
+2021-12-17 15:29:17,698 :INFO :WDM :
+
+2021-12-17 15:29:17,698 :INFO :WDM :====== WebDriver manager ======
+2021-12-17 15:29:17,906 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-17 15:29:17,906 :INFO :WDM :Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-17 15:29:18,178 :INFO :WDM :Driver [C:\Users\AnandGautam\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-17 15:29:21,436 :INFO :root :test_login: Test begins
+2021-12-17 15:29:26,978 :INFO :root :Entering user email
+2021-12-17 15:29:27,728 :INFO :root :Entering user password
+2021-12-17 15:29:28,295 :INFO :root :Clicking Login button and trying to login
+2021-12-17 15:29:32,418 :INFO :root :Asserting Login
+2021-12-17 15:29:32,564 :INFO :root :End of Test: test_login
+2021-12-17 15:29:32,577 :INFO :root :main_page: Test beings
+2021-12-17 15:29:32,580 :INFO :root :Checking sidebar menu items
+2021-12-17 15:29:32,780 :INFO :root :Checking main menu items
+2021-12-17 15:29:32,987 :INFO :root :Checking welcome time below profile icon
+2021-12-17 15:29:33,144 :INFO :root :End of Test: main_page
+2021-12-17 15:29:35,548 :INFO :WDM :
+
+2021-12-17 15:29:35,550 :INFO :WDM :====== WebDriver manager ======
+2021-12-17 15:29:35,991 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-17 15:29:35,992 :INFO :WDM :Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-17 15:29:36,198 :INFO :WDM :Driver [C:\Users\AnandGautam\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-17 15:29:39,849 :INFO :root :Test beings
+2021-12-17 15:29:48,717 :INFO :root :Asserting Login
+2021-12-17 15:29:48,738 :INFO :root :Passed
+2021-12-17 15:29:54,474 :INFO :root :Asserting Login
+2021-12-17 15:29:54,509 :INFO :root :Passed
+2021-12-17 15:29:57,579 :INFO :root :Asserting Login
+2021-12-17 15:29:57,751 :INFO :root :Passed
+2021-12-17 15:29:57,926 :INFO :root :DDT passed
+2021-12-17 15:29:57,927 :INFO :root :End of Test

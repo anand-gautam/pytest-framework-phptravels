@@ -1,0 +1,22 @@
+2021-12-17 15:35:28,754 :INFO :WDM :====== WebDriver manager ======
+2021-12-17 15:35:28,855 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-17 15:35:28,855 :INFO :WDM :Get LATEST driver version for 96.0.4664
+2021-12-17 15:35:29,017 :INFO :WDM :Driver [C:\Users\AnandGautam\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-17 15:35:32,695 :INFO :root :test_login_to_admin: Test Begins
+2021-12-17 15:35:38,872 :INFO :root :test_bookings_page: Test begins
+2021-12-17 15:35:38,931 :INFO :root :test_add_bookinge: Test begins
+2021-12-17 15:35:38,932 :INFO :root :test_add_bookinge: clicking on Add Booking button
+2021-12-17 15:35:38,971 :INFO :root :test_quick_booking: Test Begins
+2021-12-17 15:35:41,297 :INFO :WDM :====== WebDriver manager ======
+2021-12-17 15:35:41,604 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-17 15:35:41,604 :INFO :WDM :Get LATEST driver version for 96.0.4664
+2021-12-17 15:35:41,776 :INFO :WDM :Driver [C:\Users\AnandGautam\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-17 15:35:44,614 :INFO :root :test_login: Test begins
+2021-12-17 15:35:48,971 :INFO :root :Entering user email
+2021-12-17 15:35:49,030 :INFO :root :main_page: Test beings
+2021-12-17 15:35:49,035 :INFO :root :Checking sidebar menu items
+2021-12-17 15:35:51,214 :INFO :WDM :====== WebDriver manager ======
+2021-12-17 15:35:51,470 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-17 15:35:51,470 :INFO :WDM :Get LATEST driver version for 96.0.4664
+2021-12-17 15:35:51,609 :INFO :WDM :Driver [C:\Users\AnandGautam\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-17 15:35:54,264 :INFO :root :Test beings

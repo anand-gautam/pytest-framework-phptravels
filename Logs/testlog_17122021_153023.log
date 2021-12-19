@@ -1,0 +1,10 @@
+2021-12-17 15:30:29,028 :INFO :WDM :====== WebDriver manager ======
+2021-12-17 15:30:29,028 :INFO :WDM :====== WebDriver manager ======
+2021-12-17 15:30:29,150 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-17 15:30:29,150 :INFO :WDM :Current google-chrome version is 96.0.4664
+2021-12-17 15:30:29,152 :INFO :WDM :Get LATEST driver version for 96.0.4664
+2021-12-17 15:30:29,152 :INFO :WDM :Get LATEST driver version for 96.0.4664
+2021-12-17 15:30:29,356 :INFO :WDM :Driver [C:\Users\AnandGautam\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-17 15:30:29,356 :INFO :WDM :Driver [C:\Users\AnandGautam\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-17 15:30:34,004 :INFO :root :test_login_to_admin: Test Begins
+2021-12-17 15:30:34,004 :INFO :root :test_login_to_admin: Test Begins
